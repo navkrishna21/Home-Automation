@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Home Automation System</title>  <!-- This will be the page title -->
+</head>
+<body> 
+<button id="11" class="switch">Light</button> <!--  This will create the button for pin 11 -->
+<button id="10" class="switch">Fan</button> <!--  This will create the button for pin 10 -->
+
+<script src="jquery.min.js"></script> <!-- This will read the script from the jquery -->
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".switch").click(function(){
+    var p = $(this).attr('id'); 
+    // Sending the request to the ip address of the server with the pin number to toggle the pin                                                                
+    $.get("http://192.168.4.1:80", {pin:p}); // Sending the get request
+  });
+});
+</script>
+</body>
+</html>
