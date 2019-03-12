@@ -19,14 +19,14 @@ For my project I used LED for light and DC Motor for Fan.
 * PN2222 Transistor
 * LED
 
-#Circuit Diagram:
+# Circuit Diagram:
 
-All connections except Wifi module:
+## All connections except Wifi module:
 
 ![Image](./circuit_diagrams/main_diagram.png)
 
 
-ESP8266 connections
+## ESP8266 connections
 
 ![Image](./circuit_diagrams/esp8266_diagram.jpg)
 
