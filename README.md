@@ -35,4 +35,8 @@ ESP8266 connections
 
 1. After making all the connections, open the home_automation.ino file in Arduino IDE
 2. Select Arduino board,connect via USB and upload the sketch.
-3. open the home.html
+3. Open the home.html
+![Image](screenshot.png)
+
+4. Select the button to turn on the device.
+5. You can turn any on device off by pressing the same button again.
