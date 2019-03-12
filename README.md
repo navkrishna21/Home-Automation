@@ -33,7 +33,7 @@ For my project I used LED for light and DC Motor for Fan.
 
 # Steps
 
-1. After making all the connections, open the home_automation.ino file in Arduino IDE
+1. After making all the connections, open the home_automation.ino file in Arduino IDE.
 2. Select Arduino board,connect via USB and upload the sketch.
 3. Open the home.html. Webpage with following buttons will load: 
 
