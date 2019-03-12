@@ -1,5 +1,5 @@
 # Home-Automation
-Fan and Light controlled by sensors using Arduino and Wifi module
+Fan and Light controlled by sensors using Arduino and Wi-Fi module
 
 # Description
 An automated light and fan system built using Arduino which is controlled
@@ -21,12 +21,12 @@ For my project I used LED for light and DC Motor for Fan.
 
 # Circuit Diagram:
 
-## All connections except Wifi module:
+## All connections except Wi-Fi module:
 
 ![Image](./circuit_diagrams/main_diagram.png)
 
 
-## ESP8266 connections
+## ESP8266 connections:
 
 ![Image](./circuit_diagrams/esp8266_diagram.jpg)
 
