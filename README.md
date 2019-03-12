@@ -23,10 +23,10 @@ For my project I used LED for light and DC Motor for Fan.
 
 All connections except Wifi module:
 
-![Image](./Home-Automation/circuit_diagrams/main_diagram.png)
+![Image](./circuit_diagrams/main_diagram.png)
 
 ESP8266 connections
 
-![Image](./Home-Automation/circuit_diagrams/esp8266_diagram.jpeg)
+![Image](./circuit_diagrams/esp8266_diagram.jpg)
 
 
