@@ -25,8 +25,14 @@ All connections except Wifi module:
 
 ![Image](./circuit_diagrams/main_diagram.png)
 
+
 ESP8266 connections
 
 ![Image](./circuit_diagrams/esp8266_diagram.jpg)
 
 
+# Steps
+
+1. After making all the connections, open the home_automation.ino file in Arduino IDE
+2. Select Arduino board,connect via USB and upload the sketch.
+3. open the home.html
