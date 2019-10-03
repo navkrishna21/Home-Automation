@@ -1,8 +1,8 @@
 # Home-Automation
-Fan and Light controlled by sensors using Arduino and Wi-Fi module
+Efficient Fan and Lighting system controlled by sensors using Arduino and Wi-Fi module.
 
 # Description
-An automated light and fan system built using Arduino which is controlled
+An automated and power saving light and fan system built using Arduino which is controlled
 via static web page. The lighting system depends on surrounding light
 intensity and the speed of fan varies according to the surrounding
 temperature.
